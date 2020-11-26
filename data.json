@@ -9,12 +9,11 @@ var obj =
 	"ganalytics": "UA-629709-5",
 	
 	"name": {
-		"first": "Avi",
-		"last": "Alkalay",
+		"first": "Sandeep",
+		"last": "Singh",
 	},
-	"title": "Data Scientist, Data Engineer, Teacher and Hacker",
-	"company": "CI&T and Digital House",
-	"department": "Data",
+	"title": "Directorr",
+	"company": "AV Wallplug",
 
 	"columns": {
 		"1": ["phone", "publications", "other","mail"],
@@ -24,75 +23,42 @@ var obj =
 	"section": {
 		"phone": [
 			{
-				"value": "+55 (11) 99659-9059",
+				"value": "+91 9879 766 490",
 				"label": "mobile",
 				"microformatTag": "mobile",
 				"vcfTag": "mobile" 
 			},
-			{
-				"value": "avibrazilⓐgmail.com",
-				"label": "facetime"
-			},
-			{
-				"value": "avibrazilⓐgmail.com",
-				"label": "hangouts"
-			},
-			{
-				"value": "avibrazil",
-				"label": "skype"
-			},
+		
 		],
 
 		"mail": [
 			{
-				"value": "aviⓐciandt.com",
+				"value": "sales@asthavinayakenterprise.com",
 				"label": "work"
 			},
-			{
-				"value": "aviⓐunix.sh",
-				"label": "personal"
-			},
+			
 		],
 		
 		"social": [
+			
 			{
-				"value": "avibrazil",
-				"label": "linkedin"
-			},
-			{
-				"value": "avibrazil",
+				"value": "av wallplug",
 				"label": "facebook"
 			},
-			{
-				"value": "avibrazil",
-				"label": "github"
-			}
+			
 		],
 		
 		"publications": [
-			{
-				"value": "Avi.Alkalay.net",
-				"label": "blog",
-				"protocol": "https"
-			},
+			
 			{
 				"value": "fb.com/AviOnInformationTechnology",
 				"label": "facebook",
 				"protocol": "https"
 			},
-			{
-				"value": "Avi.Alkalay.net/bio",
-				"label": "minibio",
-				"protocol": "https"
-			}
+			
 		],
 				
-		"other": [
-			{
-				"label": "Bitcoin",
-				"value": "12c8eL6HVeNgXPf8dyoymgVahJWqgnc4Gk"
-			}
-		],
+		
 		
 		"qrcode": [
 			{
